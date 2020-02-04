@@ -3,8 +3,18 @@
   background: #38c4eb;
 }
 
-.bg-green {
-  background: #a0eb7a;
+/* for the side navigation bar in the voting section */
+body div div nav {
+  background: #62bf68;
+}
+
+/* changing the text color of the side navigation bar*/
+body div div nav a {
+  color: #ffffff;
+}
+
+main {
+  background: #ffffff;
 }
 
 header nav a {
@@ -19,4 +29,8 @@ header nav a {
 .myactive2 {
   color: #ffffff;
   background: #38c4eb
+}
+
+.maxheight {
+  height: 100%;
 }
