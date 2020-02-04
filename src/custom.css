@@ -1,5 +1,10 @@
+
 .bg-blue {
   background: #38c4eb;
+}
+
+.bg-green {
+  background: #a0eb7a;
 }
 
 header nav a {
@@ -8,5 +13,10 @@ header nav a {
 
 .myactive {
   background: #ffffff;
-  color: #38afeb
+  color: #38c4eb
+}
+
+.myactive2 {
+  color: #ffffff;
+  background: #38c4eb
 }
