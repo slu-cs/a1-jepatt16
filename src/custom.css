@@ -33,6 +33,10 @@ header nav a {
   color: #ffffff;
 }
 
+body {
+  font-family: "Times New Roman", serif;
+}
+
 .myactive {
   background: #ffffff;
   color: #38c4eb
